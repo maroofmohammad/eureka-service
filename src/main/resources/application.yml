@@ -11,7 +11,7 @@ eureka:
     registerWithEureka: false
     fetchRegistry: false
     serviceUrl:
-      defaultZone: http://moodgo.us:8761/eureka
+      defaultZone: http://13.127.125.180:8761/eureka
   server:
     waitTimeInMsWhenSyncEmpty: 0
     enableSelfPreservation: false
